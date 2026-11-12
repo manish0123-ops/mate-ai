@@ -5,7 +5,6 @@
 🌐 **Live Demo:** https://manish0123-ops.github.io/mate-ai/
 
 💻 **Technology:** Python · Flask · Ollama · SQLite · JavaScript
-# MATE — Metacognitive Adaptive Thinking Engine
 
 MATE is an experimental, privacy-conscious personal AI assistant designed to explore persistent memory, context-aware interactions, self-reflection, and measurable improvement.
 
