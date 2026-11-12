@@ -1,0 +1,37 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Personal databases and memory
+database/
+web_data/
+*.db
+*.sqlite
+*.sqlite3
+memory.txt
+reminders.json
+
+# Personal computer information
+installed_apps.txt
+custom_apps.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# Development folders
+.vscode/
+.idea/
+.agents/
+.claude/
